@@ -1,6 +1,6 @@
 # Python-PSO
 
-This is a simple implementation of particle swarm optimization, a method for approximating the maximum/minimum of an n-dimensional, continuous function over a finite area. This implementation does not rely on any differentiation of the function being optimized.
+This is a simple implementation of particle swarm optimization, a method for approximating the maximum/minimum of an n-dimensional, continuous function over a finite domain. This implementation does not rely on any differentiation of the function being optimized.
 
 ### A quick warning:
 This does not guarantee that the global optimum is found, nor does it guarantee an exact solution. It is an apporoximation of the optimum over the specified domain.
